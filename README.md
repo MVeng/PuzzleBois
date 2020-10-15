@@ -15,9 +15,12 @@ Controller is the best way to play and tutorials are based on controller gamepla
 for keyboard if a controller is not available.  
 
 
-Once launched, navigate the menu to the controls or tutorial. Once completed, there is a list of levels in the ‘level select’ 
+Once launched, navigate the menu to the controls or tutorial, both are important. Once completed, there is a list of levels in the ‘level select’ 
 which contains levels of ascending difficulty. The harder levels display most of the functionality, including power ups but are more complicated, 
 and obviously less straight forward. 
+
+Navigate the characters through the puzzle, using team work to progress to the final door. Once the door is reached by both characters, you will be loaded into
+the next level. If you are stuck you can reset with 'Back' on the controller or 'r' for keyboard. 
 
 
 
