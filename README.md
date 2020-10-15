@@ -1,10 +1,15 @@
 # PuzzleBois
 
+Link to the github
+https://github.com/MVeng/PuzzleBois
+
 Most of content is contained in https://github.com/MVeng/PuzzleBois/tree/master/Content/SideScrollerBP 
 
  
 
 Installation and setup instructions 
+
+Install and run PuzzleBois.exe from the github release
 
 Controller is the best way to play and tutorials are based on controller gameplay. There is however key mapping 
 for keyboard if a controller is not available.  
